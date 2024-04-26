@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saulocerqueira
 - 👀 I’m interested in Back-End Development
 - 🌱 I’m currently learning C# Language
-- 📫 How to reach me in saulodecerqueira@gmail.com
+- 📫 Reach me in saulodecerqueira@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play volleyball and like so much RPG games
 
