@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C# Language
 - 📫 How to reach me in saulodecerqueira@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm play volleyball and like so much RPG games
+- ⚡ Fun fact: I play volleyball and like so much RPG games
 
 <!---
 saulocerqueira/saulocerqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
